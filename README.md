@@ -64,10 +64,10 @@ These are Amazon Canada searches for supplies, not claims about the exact filame
 
 | Supplies | Amazon affiliate link |
 | --- | --- |
-| PLA filament | [Shop PLA filament](https://www.amazon.ca/s?k=PLA+filament+1.75mm&tag=mkmeorg0d-20) |
-| Filament storage bags and desiccant | [Shop filament storage](https://www.amazon.ca/s?k=3d+printer+filament+storage+bags+desiccant&tag=mkmeorg0d-20) |
-| Digital calipers for checking prints | [Shop digital calipers](https://www.amazon.ca/s?k=digital+caliper&tag=mkmeorg0d-20) |
-| Deburring and print cleanup tools | [Shop print cleanup tools](https://www.amazon.ca/s?k=3d+print+deburring+tool&tag=mkmeorg0d-20) |
+| PLA filament | [Shop PLA filament](https://www.amazon.ca/s?k=PLA+filament+1.75mm&tag=wbca-20) |
+| Filament storage bags and desiccant | [Shop filament storage](https://www.amazon.ca/s?k=3d+printer+filament+storage+bags+desiccant&tag=wbca-20) |
+| Digital calipers for checking prints | [Shop digital calipers](https://www.amazon.ca/s?k=digital+caliper&tag=wbca-20) |
+| Deburring and print cleanup tools | [Shop print cleanup tools](https://www.amazon.ca/s?k=3d+print+deburring+tool&tag=wbca-20) |
 
 ## More of my 3D printing projects
 
