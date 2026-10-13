@@ -44,6 +44,41 @@ The saved PLA preset uses these overrides:
 
 These are starting points for tuning your own filament. The exports inherit built-in WonderMaker profiles, so use a slicer with the matching base profiles and check the printer, nozzle, and material selections before printing.
 
+## PETG settings we adjusted
+
+A rough list of the settings we adjusted for PETG.
+
+### Filament settings — WonderMaker PETG Basic - erger
+
+- Filament flow ratio
+- Enable pressure advance
+- Pressure advance
+- Nozzle temperature
+- Initial-layer nozzle temperature
+- Retract when changing layer
+- Overhangs/external bridges fan speed
+- Keep fan always on
+- Initial-layer bed temperature
+
+### Process settings
+
+- Enable accel_to_decel
+- Normal/default acceleration
+- Outer-wall acceleration
+- Inner-wall acceleration
+- Travel acceleration
+- Gap-infill speed
+- Top-surface speed
+- Bridge flow ratio
+- Internal bridge flow ratio
+- Bridge speed
+- Internal bridge speed
+- Thick internal bridges
+- Slow down for curled perimeters
+- Precise Wall
+- Sparse-infill density
+- Brim type
+
 ## Official WonderMaker links
 
 | Resource | Link |
