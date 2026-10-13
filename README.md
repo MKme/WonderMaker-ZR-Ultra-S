@@ -44,9 +44,9 @@ The saved PLA preset uses these overrides:
 
 These are starting points for tuning your own filament. The exports inherit built-in WonderMaker profiles, so use a slicer with the matching base profiles and check the printer, nozzle, and material selections before printing.
 
-## PETG settings we adjusted
+## PETG settingsadjusted
 
-A rough list of the settings we adjusted for PETG.
+A rough list of the settings adjusted for PETG.
 
 ### Filament settings — WonderMaker PETG Basic - erger
 
