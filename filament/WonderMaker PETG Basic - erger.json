@@ -14,12 +14,6 @@
 	"from": "User",
 	"inherits": "WonderMaker PETG Basic",
 	"name": "WonderMaker PETG Basic - erger",
-	"nozzle_temperature": [
-		"235"
-	],
-	"nozzle_temperature_initial_layer": [
-		"240"
-	],
 	"overhang_fan_speed": [
 		"100"
 	],
@@ -28,6 +22,9 @@
 	],
 	"reduce_fan_stop_start_freq": [
 		"0"
+	],
+	"slow_down_min_speed": [
+		"5"
 	],
 	"supertack_plate_temp_initial_layer": [
 		"75"

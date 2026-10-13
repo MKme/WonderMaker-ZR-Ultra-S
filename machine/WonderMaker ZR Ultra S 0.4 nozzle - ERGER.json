@@ -1,0 +1,21 @@
+{
+	"from": "User",
+	"inherits": "WonderMaker ZR Ultra S 0.4 nozzle",
+	"machine_end_gcode": ";PRINT_END\n================================================\n; --- Start of conditional Z-axis movement ---\nG90; Set positioning to absolute\n{if max_layer_z < (max_print_height/2)}\n; If the part is shorter than half the maximum height:\nG1 Z{max_print_height / 2} F600 ; Move the bed to exactly half the Z-axis height\n{else}\n; If the part is taller than half the maximum height:\n{if (max_layer_z + 4) <= max_print_height}\nG1 Z{max_layer_z + 4} F600 ; Lower the bed by just 4mm\n{else}\nG1 Z{max_print_height} F600 ; Safety measure: lower the bed to the maximum physical limit to avoid collision\n{endif}\n{endif}\n; --- End of conditional Z-axis movement ---\n===============================================",
+	"name": "WonderMaker ZR Ultra S 0.4 nozzle - ERGER",
+	"printer_extruder_id": [
+		"1",
+		"2",
+		"3",
+		"4"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard",
+		"Direct Drive Standard",
+		"Direct Drive Standard",
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "WonderMaker ZR Ultra S 0.4 nozzle - ERGER",
+	"version": "2.4.0.1",
+	"z_offset": "0.07"
+}
