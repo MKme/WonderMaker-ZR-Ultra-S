@@ -1,0 +1,36 @@
+{
+	"enable_pressure_advance": [
+		"1"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.86"
+	],
+	"filament_settings_id": [
+		"WonderMaker PETG Basic - erger"
+	],
+	"from": "User",
+	"inherits": "WonderMaker PETG Basic",
+	"name": "WonderMaker PETG Basic - erger",
+	"nozzle_temperature": [
+		"235"
+	],
+	"nozzle_temperature_initial_layer": [
+		"240"
+	],
+	"overhang_fan_speed": [
+		"100"
+	],
+	"pressure_advance": [
+		"0.024"
+	],
+	"reduce_fan_stop_start_freq": [
+		"0"
+	],
+	"supertack_plate_temp_initial_layer": [
+		"75"
+	],
+	"version": "2.4.0.1"
+}

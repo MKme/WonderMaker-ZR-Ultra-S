@@ -1,0 +1,22 @@
+{
+	"accel_to_decel_enable": "1",
+	"brim_type": "no_brim",
+	"default_acceleration": "5000",
+	"from": "User",
+	"gap_infill_speed": "150",
+	"inherits": "0.20mm Standard @WonderMaker ZR Ultra",
+	"inner_wall_acceleration": "5000",
+	"name": "0.20mm Standard @WonderMaker ZR Ultra - Erics",
+	"outer_wall_acceleration": "4000",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Standard @WonderMaker ZR Ultra - Erics",
+	"sparse_infill_density": "100%",
+	"top_surface_speed": "180",
+	"travel_acceleration": "6000",
+	"version": "2.4.0.1"
+}

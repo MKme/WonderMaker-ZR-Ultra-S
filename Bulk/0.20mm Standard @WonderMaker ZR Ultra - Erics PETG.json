@@ -1,0 +1,28 @@
+{
+	"accel_to_decel_enable": "1",
+	"bridge_flow": "1.05",
+	"brim_type": "no_brim",
+	"default_acceleration": "5000",
+	"from": "User",
+	"gap_infill_speed": "150",
+	"inherits": "0.20mm Standard @WonderMaker ZR Ultra",
+	"inner_wall_acceleration": "5000",
+	"internal_bridge_flow": "1.1",
+	"internal_bridge_speed": "25",
+	"name": "0.20mm Standard @WonderMaker ZR Ultra - Erics PETG",
+	"outer_wall_acceleration": "4000",
+	"precise_outer_wall": "0",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Standard @WonderMaker ZR Ultra - Erics PETG",
+	"small_perimeter_speed": "40",
+	"sparse_infill_density": "10%",
+	"thick_internal_bridges": "0",
+	"top_surface_speed": "50",
+	"travel_acceleration": "6000",
+	"version": "2.4.0.1"
+}
